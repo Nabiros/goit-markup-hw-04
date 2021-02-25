@@ -447,7 +447,7 @@ address {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: var(--social-color);
+  color: var(--color-white);
   background-color: var(--join-icon-bg-op10);
   width: 44px;
   height: 44px;
@@ -464,7 +464,6 @@ address {
 
 .soc-site-join:hover,
 .soc-site-join:focus {
-  color: var(--color-white);
   background-color: var(--decoration-color);
 }
 
